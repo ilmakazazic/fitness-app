@@ -61,15 +61,9 @@ Make sure that `db.json` is located in the project root directory. This file sto
 
 ---
 
-### Add Activity Dialog
+### Set Goal Dialog
 
 ![set goal dialog](./screenshots/set-goal-dialog.png)
-
----
-
-### Filters
-
-![filters](./screenshots/filters.png)
 
 ---
 
