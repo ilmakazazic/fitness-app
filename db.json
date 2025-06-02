@@ -1,0 +1,48 @@
+{
+  "activities": [
+    {
+      "id": "1",
+      "title": "Morning Run",
+      "description": "Jogging around the block to start the day",
+      "date": "2025-05-12T22:00:00.000Z",
+      "time": "2025-05-30T06:30:22.311Z",
+      "type": "run",
+      "duration": "30"
+    },
+    {
+      "id": "2",
+      "title": "Evening Walk",
+      "description": "Relaxing walk after dinner",
+      "date": "2025-05-30T03:26:22.311Z",
+      "time": "2025-05-30T03:26:22.311Z",
+      "type": "walk",
+      "duration": "45"
+    },
+    {
+      "id": "3",
+      "title": "Mountain Hike",
+      "description": "Hiking trail with moderate difficulty",
+      "date": "2025-05-12T22:00:00.000Z",
+      "time": "2025-05-31T05:00:00.000Z",
+      "type": "hike",
+      "duration": "20"
+    },
+    {
+      "id": "4",
+      "title": "HIIT Session",
+      "description": "High-intensity interval training workout",
+      "date": "2025-05-30T03:26:22.311Z",
+      "time": "2025-05-30T03:26:22.311Z",
+      "type": "HIIT",
+      "duration": "25"
+    }
+  ],
+  "goal": [
+    {
+      "type": "duration",
+      "value": "30",
+      "frequency": "daily",
+      "id": "6095"
+    }
+  ]
+}
