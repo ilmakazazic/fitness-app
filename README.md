@@ -6,15 +6,14 @@ A simple fitness goal and activity tracking application built with **React** and
 
 ## 📦 Tech Stack
 
-- **React** 
-- **TypeScript** 
-- **Vite** 
+- **React**
+- **TypeScript**
+- **Vite**
 - **React Hook Form**
 - **React Query**
-- **PrimeReact** 
-- **Tailwind CSS** 
-- **Moment.js** 
-
+- **PrimeReact**
+- **Tailwind CSS**
+- **Moment.js**
 
 ## 1. Install Dependencies
 
@@ -27,7 +26,6 @@ npm install
 ```bash
 npm run start
 ```
-
 
 ## 🗄️ JSON Server (Mock Backend)
 
@@ -89,26 +87,12 @@ Make sure that `db.json` is located in the project root directory. This file sto
 
 ## Screenshots Mobile
 
-### Full Page Daily Goal
+<p align="center">
+  <img src="./screenshots/mobile-full-page-daily-goal.png" alt="Full Page Daily Goal" width="45%" />
+  <img src="./screenshots/mobile-full-page-weekly-goal.png" alt="Full Page Weekly Goal" width="45%" />
+</p>
 
-![full page daily goal](./screenshots/mobile-full-page-daily-goal.png)
-
----
-
-### Full Page Weekly Goal
-
-![full page weekly goal](./screenshots/mobile-full-page-weekly-goal.png)
-
----
-
-### Add Activity Dialog
-
-![add activity dialog](./screenshots/mobile-add-activity-dialog.png)
-
----
-
-### Add Activity Dialog
-
-![set goal dialog](./screenshots/mobile-set-goal-dialog.png)
-
----
+<p align="center">
+  <img src="./screenshots/mobile-add-activity-dialog.png" alt="Add Activity Dialog" width="45%" />
+  <img src="./screenshots/mobile-set-goal-dialog.png" alt="Set Goal Dialog" width="45%" />
+</p>
