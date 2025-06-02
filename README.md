@@ -4,7 +4,7 @@ A simple fitness goal and activity tracking application built with **React** and
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 - **React**
 - **TypeScript**
@@ -15,19 +15,14 @@ A simple fitness goal and activity tracking application built with **React** and
 - **Tailwind CSS**
 - **Moment.js**
 
-## 1. Install Dependencies
+## Install Dependencies and Start App
 
 ```bash
 npm install
-```
-
-## 2. Start the Development Server
-
-```bash
 npm run start
 ```
 
-## 🗄️ JSON Server (Mock Backend)
+## JSON Server (Mock Backend)
 
 This project uses **JSON Server** as a mock REST API.
 
